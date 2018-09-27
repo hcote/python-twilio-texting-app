@@ -1,0 +1,1 @@
+This app lets you send text messages from the command line. All you have to do is edit the message variable to what you want to send, then run from the terminal 'python send_sms.py' and wait for the text!
